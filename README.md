@@ -16,7 +16,7 @@
  
  *Junit*
 
-![Screenshot 2023-03-15 195705](https://user-images.githubusercontent.com/68038931/225406182-8258094f-f01c-4f14-ab68-ebe50d625681.png)
+![Screenshot 2023-03-15 195705](https://user-images.githubusercontent.com/68038931/226345069-c8ee1206-def0-4f3d-a019-a2239855a9f2.png)
 
  
 
